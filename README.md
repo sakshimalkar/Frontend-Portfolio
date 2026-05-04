@@ -20,6 +20,7 @@
 </div>
 
 ---
+### 🌐 [View Live Portfolio](https://sakshimalkar.github.io/Frontend-portfolio/)
 
 ## 👩‍💻 About Me
 
